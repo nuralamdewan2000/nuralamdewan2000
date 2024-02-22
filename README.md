@@ -76,6 +76,8 @@
 <hr>
 <h2 align="center">📊 My GitHub Statastics </h2>
 
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=nuralamdewan2000)](https://github.com/ryo-ma/github-profile-trophy)
  <div align ="center">
   <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=nuralamdewan2000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="NuralamDewan" />
