@@ -12,7 +12,7 @@
 
  🌱 I’m currently learning **Node.js**.
   <br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1-arZo_Jok2cICE2zIdSMFUhzKOh-Fv3R/view?usp=sharing">Resume</a>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1Gx5PF9V2r2IC3XsFmrk_2mV9P5oK437F/view?usp=sharing">Resume</a>
   <br><br>
  👨‍💻  Know more about me <a href="https://nuralamdewan2000.github.io/">Portfolio</a>
   <br><br>
@@ -33,7 +33,9 @@
 <h2 align="center">🚀 Languages and Tools: </h2>
  
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
-<!--  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g"> -->
+ <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdyeDJ3bGJsOW9kcGVjYWt2ZzhoNzB2dTNvc3FiczJ6NDF2OHhvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif">
+
+
 <p>
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
